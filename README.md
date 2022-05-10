@@ -3,7 +3,7 @@
 Project that models the spontaneous formation of patterns in reaction-diffusion system 
 based on Alan Turing's paper of 1952 "The Chemical Basis of Morphogenesis". 
 
-Realised as a semester project in a group of 3 people Ece Sanin and ...
+This work was part of a semester project in a group of 3 people: myself, Ece Sanin and Kevin R.
 as part of the course in Computational Sciences at the Freie Universitaet Berlin in 2019. 
 
 
