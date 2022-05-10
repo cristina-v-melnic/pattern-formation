@@ -8,4 +8,5 @@ This work was done in a semester project by a group of 3 people: myself, Ece San
 
 To do:
 - [ ] Add description to classes and functions.
-- [ ] See whether to include them in packages.
+- [ ] See whether to include them in packages and/or different files.
+- [ ] Work on the test.
