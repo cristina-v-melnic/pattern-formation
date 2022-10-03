@@ -22,7 +22,7 @@ The computational expense of an implicit integrator (solving a nonlinear fixed-p
 is, in this case, compensated with by the property of unconditional stabillity.
 This allows integration with large time steps $\Delta t > 1$, which considerably reduces the computational time. 
 The computational properties were studied using models from literature for abstract pattern generation [2], as
-well as formation of animal fur patterns [3-4], which were specified the values of parameters $\delta_{1}$ and $\delta_{2}$
+well as formation of animal fur patterns [3-4], which were specified by the values of parameters $\delta_{1}$ and $\delta_{2}$
 and functional dependencies $f(u,v)$ and $g(u,v)$. 
 
 ## Credit
