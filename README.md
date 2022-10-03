@@ -37,7 +37,7 @@ This work was done as a part of a semester project in MSc Computational Sciences
 
 [3]. A. J. Koch and H. Meinhardt “Biological Pattern Formation : from Basic Mechanisms to Complex Structures”, Rev. Modern Physics 66, 1481-1507 (1994)
 
-[4]. R. T. Liu, S. S. Liaw, and P. K. Maini, \Two-stage Turing model for generating pigment patterns on the leopard and the jaguar," Physical Review E, vol. 74, p. 011914, July 2006.
+[4]. R. T. Liu, S. S. Liaw, and P. K. Maini, "Two-stage Turing model for generating pigment patterns on the leopard and the jaguar," Physical Review E, vol. 74, p. 011914, July 2006.
 
 ## Contents
 
