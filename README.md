@@ -26,7 +26,7 @@ well as formation of animal fur patterns [3-4], which were specified by the valu
 and functional dependencies $f(u,v)$ and $g(u,v)$. 
 
 ## Credit
-This work was done as a part of a semester project in MSc Computational Sciences at the Freie Universitaet Berlin in 2019. The project was initiated and supervised by Dr Gottfried Hastermann and performed by a group of 3 people: myself, Ece Sanin and Kevin Cyriac Edampurath. 
+This was a coursework semester project in MSc Computational Sciences program at the Freie Universitaet Berlin in 2019. The project was initiated and supervised by Dr Gottfried Hastermann and performed by a group of 3 people: Cristina Melnic, Ece Sanin and Kevin Cyriac Edampurath. 
 
 
 ## References
