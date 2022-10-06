@@ -25,6 +25,9 @@ The computational properties were studied using models from literature for abstr
 well as formation of animal fur patterns [3-4], which were specified by the values of parameters $\delta_{1}$ and $\delta_{2}$
 and functional dependencies $f(u,v)$ and $g(u,v)$. 
 
+For more details on the methods and results see the [presentation slides](https://docs.google.com/presentation/d/1KD3HoDxP_13muVLUVpLfGpBX1hTmsUaDaE0qQuaujd4/edit?usp=sharing).
+
+
 ## Credit
 This was a coursework semester project in MSc Computational Sciences program at the Freie Universitaet Berlin in 2019. The project was initiated and supervised by Dr Gottfried Hastermann and performed by a group of 3 people: Cristina Melnic, Ece Sanin and Kevin Cyriac Edampurath. 
 
