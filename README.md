@@ -43,7 +43,7 @@ This was a coursework semester project in MSc Computational Sciences program at 
 
 [2]. J. E. Pearson, “Complex Patterns in a Simple System,” Science, vol. 261, pp. 189–192, July 1993. 		
 
-[3]. A. J. Koch and H. Meinhardt “Biological Pattern Formation : from Basic Mechanisms to Complex Structures”, Rev. Modern Physics 66, 1481-1507 (1994)
+[3]. A. J. Koch and H. Meinhardt “Biological Pattern Formation: from Basic Mechanisms to Complex Structures”, Rev. Modern Physics 66, 1481-1507 (1994)
 
 [4]. R. T. Liu, S. S. Liaw, and P. K. Maini, "Two-stage Turing model for generating pigment patterns on the leopard and the jaguar," Physical Review E, vol. 74, p. 011914, July 2006.
 
