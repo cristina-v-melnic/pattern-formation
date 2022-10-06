@@ -33,7 +33,7 @@ For more details on the methods and results see the [presentation slides](https:
 
 See other patterns in the [figures folder](https://github.com/cristina-v-melnic/pattern-formation/tree/main/figures) and the [presentation slides](https://docs.google.com/presentation/d/1KD3HoDxP_13muVLUVpLfGpBX1hTmsUaDaE0qQuaujd4/edit?usp=sharing).
 
-## Credit
+## Credits
 This was a coursework semester project in MSc Computational Sciences program at the Freie Universitaet Berlin in 2019. The project was initiated and supervised by Dr Gottfried Hastermann and performed by a group of 3 people: Cristina Melnic, Ece Sanin and Kevin Cyriac Edampurath. 
 
 
