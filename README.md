@@ -15,7 +15,7 @@ $$
 \partial_{t} v = \delta_{2} \Delta v + g(u,v).
 $$
 
-Here, we solved numerically the above system of differential equations using the
+Here we solved numerically the above system of differential equations using the
 Euler and the Crank-Nicolson integration rules and found a better performance
 in the latter case, as expected due to its implicit nature and a higher convergence order.
 The computational expense of an implicit integrator (solving a nonlinear fixed-point problem)
